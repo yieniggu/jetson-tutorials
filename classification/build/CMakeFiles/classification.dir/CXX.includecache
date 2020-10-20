@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/basti/Desktop/jetson-tutorials/classification/classification.cpp
+jetson-inference/imageNet.h
+-
+jetson-utils/loadImage.h
+-
+

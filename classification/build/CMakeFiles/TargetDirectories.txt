@@ -1,0 +1,3 @@
+/home/basti/Desktop/jetson-tutorials/classification/build/CMakeFiles/rebuild_cache.dir
+/home/basti/Desktop/jetson-tutorials/classification/build/CMakeFiles/classification.dir
+/home/basti/Desktop/jetson-tutorials/classification/build/CMakeFiles/edit_cache.dir
